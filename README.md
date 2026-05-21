@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! I'm Rishi 👋</h1>
+<h1 align="center">Hello There! I'm Rishindra 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;DSA+Learner;Building+Cool+Projects" />
@@ -17,24 +17,13 @@ building:    Ecommerce Website with AI Integration
 goal:        Build real-world projects that matter
 ```
 
----
-
-# GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishindra1430&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishindra1430&theme=tokyonight" />
-</p>
 
 ---
 
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode," />
 </p>
 
 ---

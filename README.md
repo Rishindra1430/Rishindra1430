@@ -9,7 +9,7 @@
 # About Me
 
 ```yaml
-name:        Rishi
+name:        Rishindra
 role:        CS Student & Developer
 focus:       Full-Stack Web • AI • ML
 learning:    ["DSA", "System Design", "AI"]
